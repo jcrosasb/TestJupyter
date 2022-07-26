@@ -1,0 +1,12 @@
+name: testjupyter_env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.8
+  - scikit-learn
+  - jupyterlab
+  - pandas
+  - numpy
+  - jupyter
+  - nbdev
